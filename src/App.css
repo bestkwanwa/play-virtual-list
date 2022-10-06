@@ -1,0 +1,8 @@
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
